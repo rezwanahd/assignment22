@@ -1,0 +1,99 @@
+.header.text-center {
+    background: #f5f5f5;
+}
+.logo {
+    padding: 10px 0px;
+    font-size: 20px;
+}
+.logo a {
+    text-decoration: none;
+    text-align: left;
+    color: #000;
+}
+.menu ul {
+    text-align: right;
+    margin-bottom: 0px;
+}
+.menu ul li {
+    display: inline-block;
+}
+.menu ul li a {
+    display: block;
+    padding: 0 25px;
+    text-decoration: none;
+    color: #000;
+    line-height: 47px;
+    font-size: 18px;
+}
+
+
+/* bannar */
+
+.bannar {
+    background: url(https://i.ibb.co/CtnbNnN/5c8.jpg);
+    padding: 300px 0px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    z-index: 1;
+}
+/* .bannar::before{
+    content: "";
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background: rgba(0, 0, 0, 0.296);
+    z-index: -1;
+
+} */
+
+.bannar-text h1 {
+    display: inline-block;
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: #fff;
+    font-size: 40px;
+    position: relative;
+    top: 120px;
+}
+/* About */
+.about{
+    margin-top:50px
+}
+.about-down {
+    margin-bottom: 50px;
+}
+
+.about-down-right {
+    font-size: 18px;
+    text-align: justify;
+}
+
+
+
+.contact-form span {
+    font-size: 17px;
+    font-weight: 500;
+}
+.btn{
+    background-color: #5bc0de;
+    color: #fff;
+    padding: 5px 10px;
+}
+.footer {
+    background: #0062d3;
+    padding: 10px;
+    margin: 20px;
+}
+
+.footer-text p {
+    margin-top: 10px;
+    font-size: 19px;
+    color: #fff;
+}
+
+
+
+
+
